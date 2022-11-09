@@ -22,4 +22,4 @@ In this project, we analyzed EURO 2020 semi-final match Italy against Spain. Var
 In this project, we have created a framework which provides its users the opportunity to compare different portfolio allocation methodologies. The framework consists of three main layers. Inital one is financial environment layer in which users can either fetch or import their own data and apply feature engineering. Second layer is model layer. It enables users to either use a conventional model or a reinforcement learning model as the portfolio allocation algorithm. Lastly, evaluation layer is utilized to apply back-testing and view the performance of the chosen algorithm with preferred performance metrics.
 
 [Framework](https://github.com/didemdurukan/uniFi/tree/main)
-[Report](files/Master_s_Project_Report_Final.pdf)
+[Report](/files/Master_s_Project_Report_Final.pdf)
