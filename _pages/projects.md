@@ -11,7 +11,7 @@ Below, You can find the projects I have completed during my BSc and MSc degrees.
 
 ### ETH Zurich, Soccer Analytics
 
-In this project, we analyzed EURO 2020 semi-final match Italy against Spain. Varios analysis techniques regarding players’ movement, passing, shooting, in-game and end-of-game match probabilities, set-pieces, player valuations, ratings are examined. Results of these analysis are collected in a match report based on the event data obtained from Statsbomb, and the tracking data obtained by the courtesy of UEFA is generated.
+In this project, we analyzed EURO 2020 semi-final match Italy against Spain. Various analysis techniques regarding players’ movement, passing, shooting, in-game and end-of-game match probabilities, set-pieces, player valuations, ratings are examined. Results of these analysis are collected in a match report based on the event data obtained from Statsbomb, and the tracking data obtained by the courtesy of UEFA is generated.
 
 [Report](/files/soccer_analytics.html)
 
