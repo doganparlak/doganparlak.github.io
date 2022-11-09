@@ -10,7 +10,7 @@ main:
     url: /experience/
     
   - title: "CV"
-    url: "files/cv.pdf"
+    url: /cv/
     
   - title: "Guide"
     url: /markdown/
