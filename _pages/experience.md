@@ -9,7 +9,7 @@ author_profile: true
 
 ### Research Assistant, Social Networks Lab at ETH Zurich, Switzerland
 
-I have been working under supervision of Prof. Dr Ulrik Brandes in Social Network Lab since June 2022. Our main focus is soccer analytics. There are two major projects that we have been working on. Initial project utilizes spatio-temporal tracking data obtained from UEFA to generate automatic formation detection algorithms. Using the same dataset in the other project, the aim is to cluster passing patterns of players and teams by building spatial networks.
+I have been working under the supervision of Prof. Dr Ulrik Brandes in Social Network Lab since June 2022. Our main focus is soccer analytics. There are two major projects that we have been working on. Initial project utilizes spatio-temporal tracking data obtained from UEFA to generate automatic formation detection algorithms. Using the same dataset in the other project, the aim is to cluster passing patterns of players and teams by building spatial networks.
 
 
 ## Industry Experience
