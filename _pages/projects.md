@@ -31,7 +31,7 @@ We have created a framework which provides its users the opportunity to compare 
 
 We set up a binary classification task which predicts the direction of “close prices” of the cryptocurrencies: ADA, BTC, DOGE, ETH and LTC utilizing high level frequency (minute level) data. Feature engineering is done to handcraft the most prevalent technical features used in technical analysis. Model-dependent and model-agnostic feature selection methods are utilized to select the most informative and relevant features. Decision tree model is built as a baseline and aimed to improve the prediction accuracy in varying time horizons using support vector machine, logistic regression, artificial neural network, recurrent neural network and random forest models.
 
-[Report](/files/Master_s_Project_Report_Final.pdf)
+[Report](files/Project_Report_Final.pdf)
 
 ## Alzheimer Phase Detection
 
