@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-Below, You can find the projects I have completed during my BSc and MSc degrees.
+Below, You can find the projects I have completed during my B.Sc. and M.Sc. degrees.
 
 ## An Open-Source Implementation of FIFA’s Enhanced Football Intelligence, 
 
