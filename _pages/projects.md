@@ -11,7 +11,7 @@ Below, You can find the projects I have completed during my B.Sc. and M.Sc. degr
 
 ### University of Zurich and ETH Zurich, Master's Thesis
 Research Question: Are the concepts in the Enhanced Football Intelligence document sufficiently detailed to allow for reproduction of FIFA’s match reports?  
-The goal of the thesis is an open-source implementation of the concepts in the[Enhanced Football Intelligence document](https://www.fifatrainingcentre.com/media/native/world-cup-2022/Enhanced%20Football%20Intelligence%20EN.pdf), and it’s validation on FIFA World Cup 2022 data. Where necessary to resolve ambiguities, alternatives can be tested, and potential improvements can be included.
+The goal of the thesis is an open-source implementation of the concepts in the [Enhanced Football Intelligence](https://www.fifatrainingcentre.com/media/native/world-cup-2022/Enhanced%20Football%20Intelligence%20EN.pdf) document, and it’s validation on FIFA World Cup 2022 data. Where necessary to resolve ambiguities, alternatives can be tested, and potential improvements can be included.
 ## Italy v Spain Match Analysis, EURO 2020
 
 ### ETH Zurich, Soccer Analytics
