@@ -7,11 +7,17 @@ author_profile: true
 
 Below, You can find the projects I have completed during my B.Sc. and M.Sc. degrees.
 
-## An Open-Source Implementation of FIFA’s Enhanced Football Intelligence, 
+## An Open-Source Implementation of FIFA’s Enhanced Football Intelligence 
 
 ### University of Zurich and ETH Zurich, Master's Thesis
 Research Question: Are the concepts in the Enhanced Football Intelligence document sufficiently detailed to allow for reproduction of FIFA’s match reports?  
 The goal of the thesis is an open-source implementation of the concepts in the [Enhanced Football Intelligence](https://www.fifatrainingcentre.com/media/native/world-cup-2022/Enhanced%20Football%20Intelligence%20EN.pdf) document, and it’s validation on FIFA World Cup 2022 data. Where necessary to resolve ambiguities, alternatives can be tested, and potential improvements can be included.
+
+## Formations and Passing
+
+### ETH Zurich, Social Networks Lab
+
+We have worked with spatio-temporal tracking data obtained from UEFA to generate an automatic formation detection and role assignment algorithm. Utilizing the same dataset, we have worked on clustering passing patterns of players and teams by building spatial networks.
 ## Italy v Spain Match Analysis, EURO 2020
 
 ### ETH Zurich, Soccer Analytics
