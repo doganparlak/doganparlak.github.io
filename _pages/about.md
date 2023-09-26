@@ -16,4 +16,4 @@ To further enrich my academic journey, I involved in the [Social Networks Lab](h
 
 In addition to my academic pursuits, I am currently gaining valuable industry experience through a Data Science internship at [UEFA](https://www.uefa.com).
 
-My passion for Data Science and Finance initially sparked during my undergraduate studies as an Electrical and Electronics Engineering student at Bilkent University. The prospect of applying data science and analytics to finance and business-related domains excited me and motivated me to pursue a master's degree in this field at the University of Zurich."
+My passion for Data Science and Finance initially sparked during my undergraduate studies as an Electrical and Electronics Engineering student at Bilkent University. The prospect of applying Data Science and Analytics to Finance and Business-related domains excited me and motivated me to pursue a master's degree in this field at the University of Zurich."
