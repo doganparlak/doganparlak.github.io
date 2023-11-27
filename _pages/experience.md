@@ -16,7 +16,7 @@ I have worked under the supervision of Prof. Dr Ulrik Brandes in Social Network 
 
 ### Data Science Intern, UEFA
 
-In my internship at the Intelligence Center of [UEFA](https://www.uefa.com), made possible through [CRSA](https://www.crsa.uzh.ch/en.html), I led the integration of online data repositories for strategic off-pitch football research, incorporating statistical and machine learning analysis to study player workload.  On the other hand for the Football Team, I implemented football metrics utilizing tracking and event data sourced from UEFA, covering ball location,
+In my internship at the Intelligence Center of [UEFA](https://www.uefa.com), made possible through [CRSA](https://www.crsa.uzh.ch/en.html), I led the integration of online data repositories for strategic off-pitch football research, incorporating statistical and machine learning analysis to study player workload.  On the other hand, for the Football Team, I implemented football metrics utilizing tracking and event data sourced from UEFA, covering ball location,
 press classification, progression classification, pass classification, running total of ball out of play, and running total of
 effective time.
 
