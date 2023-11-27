@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## How to Read a Team’s Spatial Expressions
+### {\textit{U. Brandes}, \textit{H. Sotudeh}, \textit{\textbf{D. Parlak}}, \textit{P. Laffranchi}, \textit{Mert Erkul}\\}
+Under submission, MIT Sloan Sports Analytics Conference 2023
