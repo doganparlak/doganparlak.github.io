@@ -17,6 +17,6 @@ Aside from my interests in the application of Data Science to Business-related d
 
 To further enrich my academic journey, I involved in the [Social Networks Lab](https://sn.ethz.ch) as a research assistant and teaching assistant, working closely under the supervision of Prof. Dr. Ulrik Brandes. This opportunity has allowed me to contribute to ongoing research and gain valuable teaching experience.
 
-In addition to my academic pursuits, I am currently gaining valuable industry experience through a Data Science internship at [UEFA](https://www.uefa.com).
+In addition to my academic pursuits, I have gained industry experience through a Data Science internship at [UEFA](https://www.uefa.com).
 
 

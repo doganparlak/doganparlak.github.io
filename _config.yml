@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Dogan Parlak"
   avatar           : "vesikalik_dogan.jpg"
-  bio              : "MSc. Student at UZH in the Department of Informatics, Major: Data Science, Minor: Banking and Finance"
-  location         : "Zurich, Switzerland"
+  bio              : "Data Scientist"
+  location         : "Ankara, Turkey"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "dogan parlak"
+  linkedin         : #"https://www.linkedin.com/in/dogan-parlak-0269521b1/"
   orcid            : 
   pinterest        :
   soundcloud       :
