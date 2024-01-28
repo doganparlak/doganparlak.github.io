@@ -48,6 +48,10 @@ We have created a framework which provides its users the opportunity to compare 
 [Framework](https://github.com/didemdurukan/uniFi/tree/main)
 [Report](/files/Master_s_Project_Report_Final.pdf)
 
+## Creating Evidence in a Real-World Health Data Science Scenario
+
+### University of Zurich, Data Science in Digital Health
+The objective of the DigitalHealth project is to gain previously unknown knowledge and create evidence regarding the Swiss COVID-19 situation. The task involves discovering interesting patterns and validating them through hypothesis generation.
 
 ## Cryptocurrency Price Direction Prediction
 
