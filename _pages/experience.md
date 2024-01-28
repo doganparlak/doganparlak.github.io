@@ -11,6 +11,12 @@ In my internship at the Intelligence Center of [UEFA](https://www.uefa.com), mad
 press classification, progression classification, pass classification, running total of ball out of play, and running total of
 effective time.
 
+## Teaching Assistant, Soccer Analytics, ETH Zurich, Switzerland
+
+After successfully completing the Soccer Analytics course, I became the teaching assistant for it. The course focuses on the use of data in tactical decision-making, strategic planning, and fan engagement within the context of association football. In my role as a teaching assistant, I was involved in checking the analysis of the groups and providing feedback to them. Additionally, I assisted them during the implementation of the metrics.
+
+[Course Catalogue](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022S&ansicht=ALLE&lerneinheitId=159862&lang=en)
+
 ## Research Assistant, Social Networks Lab at ETH Zurich, Switzerland
 
 I have worked under the supervision of Prof. Dr Ulrik Brandes in Social Network Lab. Our main focus was football analytics. There were two major projects that we have worked on. The main project employed spatio-temporal tracking data obtained from UEFA to generate automatic formation detection algorithms. Using the same dataset in the other project, the aim was to cluster passing patterns of players and teams by building spatial networks.
