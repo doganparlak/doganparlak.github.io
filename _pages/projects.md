@@ -5,7 +5,18 @@ permalink: /projects/
 author_profile: true
 ---
 
-Below, you can find the projects I have completed during my B.Sc. and M.Sc. degrees.
+Below, you can find the projects I completed during my B.Sc., M.Sc. degrees, and work experience.
+## Player Workload
+
+### UEFA, Intelligence Center
+Utilizing the Transfermarkt, OPTA and UEFA competitions datasets, I led the integration of online data repositories for strategic off-pitch football research, incorpo- rating statistical and machine learning analysis to study player workload. 
+
+## Metric Implementation and Technical Analysis
+
+### UEFA, Football Department
+I was provided with tracking and event data from the Champions League match between LOSC and Ajax Amsterdam, which took place on November 27, 2019. I utilized this data to implement the following metrics: ball location, press classification, progression classification, pass classification, running total of ball out of play, and running total of effective time.
+
+[Presentation](/files/technical_analysis_presentation.pdf)
 
 ## An Open-Source Implementation of FIFA’s Enhanced Football Intelligence 
 
