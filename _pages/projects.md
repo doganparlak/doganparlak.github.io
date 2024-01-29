@@ -11,6 +11,8 @@ Below, you can find the projects I completed during my B.Sc., M.Sc. degrees, and
 ### UEFA, Intelligence Center
 Utilizing datasets from Transfermarkt, OPTA, and UEFA, I led the integration of online data repositories for strategic off-pitch football research. This involved incorporating statistical and machine learning analysis to study player workload.
 
+[Presentation](/files/player_workload.pdf)
+
 ## Metric Implementation and Technical Analysis
 
 ### UEFA, Football Department
