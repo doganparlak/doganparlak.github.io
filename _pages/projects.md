@@ -64,6 +64,8 @@ We have created a framework which provides its users the opportunity to compare 
 ### University of Zurich, Data Science in Digital Health
 The objective of the DigitalHealth project is to gain previously unknown knowledge and create evidence regarding the Swiss COVID-19 situation. The task involves discovering interesting patterns and validating them through hypothesis generation.
 
+[Repository](https://github.com/doganparlak/DigitalHealth)
+
 ## Cryptocurrency Price Direction Prediction
 
 ### University of Zurich, Finance and Machine Learning
