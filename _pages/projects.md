@@ -6,6 +6,15 @@ author_profile: true
 ---
 
 Below, you can find the projects I completed during my B.Sc., M.Sc. degrees, and work experience.
+
+## Real-Time Arbitrage Monitoring
+
+### Case Study
+A project aimed at analyzing real-time book ticker data from Binance with the goal of identifying potential triangular arbitrage opportunities. This project utilizes WebSocket streams to acquire the book ticker data and employs algorithms that consider both ask and bid prices to identify potential arbitrage opportunities. The study demonstrates the liquidity of symbols, arbitrage triggers, and frequency of observed arbitrages, along with paired symbols. The results are compiled and presented in a comprehensive presentation for interpretation, providing insights into the efficiency of the market and the potential for triangular arbitrage opportunities in real-time book ticker data from Binance.
+
+[Repository](https://github.com/doganparlak/ArbitrageMonitoring)
+
+
 ## Player Workload
 
 ### UEFA, Intelligence Center
