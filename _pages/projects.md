@@ -7,6 +7,14 @@ author_profile: true
 
 Below, you can find the projects I completed during my B.Sc., M.Sc. degrees, and work experience.
 
+## Unknown Data Classification through Ensemble Learning
+
+### Case Study
+The project showcases a classification task designed to achieve a targeted cross entropy loss on an unknown tabular dataset. Utilizing various machine learning algorithms such as LightGBM, XGBoost, Multi-Layer Perceptron (MLP), and Random Forest, both individually and as an ensemble, the approach encompasses data preprocessing using the UMAP (Uniform Manifold Approximation and Projection) model to extract meaningful features from the raw tabular data. Following preprocessing, each algorithm is trained on the data, and an ensemble of models is constructed to determine their contributions to the final prediction using Gaussian Process Minimization. This case study was completed for the hiring process of SWC Capital and is presented as a Jupyter notebook, detailing the entire pipeline from data preprocessing to ensemble learning.
+
+[Repository](https://github.com/doganparlak/UnknownDataClassification)
+
+
 ## Real-Time Arbitrage Monitoring
 
 ### Case Study
