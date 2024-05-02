@@ -57,7 +57,7 @@ We have employed spatio-temporal tracking data obtained from UEFA to generate an
 
 ### ETH Zurich, Soccer Analytics
 
-We analyzed EURO 2020 semi-final match Italy against Spain. Various analysis techniques regarding players’ movement, passing, shooting, in-game and end-of-game match probabilities, set-pieces, player valuations, ratings were examined. Results of these analysis were collected in a match report based on the event data obtained from Statsbomb, and the tracking data obtained from UEFA was generated.
+We analyzed EURO 2020 semi-final match Italy against Spain. Various analysis techniques regarding players’ movement, passing, shooting, in-game and end-of-game match probabilities, set-pieces, player valuations, ratings were examined. Results of these analyses were collected in a match report based on the event data obtained from Statsbomb, and the tracking data obtained from UEFA was generated.
 
 [Report](/files/soccer_analytics.html)
 
