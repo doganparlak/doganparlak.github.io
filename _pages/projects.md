@@ -89,7 +89,7 @@ We set up a binary classification task which predicted the direction of “close
 
 ### University of Zurich, Applied Business Modelling and Analaytics
 
-We set up a multilabel classification task that utilizes fMRI images of distinct people who faced Alzheimer and predict the phase of their disease. There were four stages of the disease namely Non-Demented, Mild Demented, Moderate Demented and Very Mild Demented. A Convolutional Neural Network was built to train, validate and test the objective.
+I set up a multilabel classification task that utilizes fMRI images of distinct people who faced Alzheimer and predict the phase of their disease. There were four stages of the disease namely Non-Demented, Mild Demented, Moderate Demented and Very Mild Demented. A Convolutional Neural Network was built to train, validate and test the objective.
 
 [Report](/files/Written Report_Revised.pdf)
 
