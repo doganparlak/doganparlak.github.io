@@ -81,7 +81,7 @@ The objective of the DigitalHealth project is to gain previously unknown knowled
 
 ### University of Zurich, Finance and Machine Learning
 
-We set up a binary classification task which predicted the direction of “close prices” of the cryptocurrencies: ADA, BTC, DOGE, ETH and LTC utilizing high level frequency (minute level) data. Feature engineering was done to handcraft the most prevalent technical features used in technical analysis. Model-dependent and model-agnostic feature selection methods were utilized to select the most informative and relevant features. Decision Tree model was built as a baseline and aimed to improve the prediction accuracy in varying time horizons using Support Vector Machine, Logistic Regression, Artificial Neural Network, Recurrent Neural Network and Random Forest models.
+We set up a binary classification task which predicted the direction of “close prices” of the cryptocurrencies: ADA, BTC, DOGE, ETH and LTC utilizing high level frequency (minute level) data. Feature engineering was done to handcraft the most prevalent technical features used in technical analysis. Model-dependent and model-agnostic feature selection methods were utilized to select the most informative and relevant features. A Decision Tree model was built as a baseline and aimed to improve the prediction accuracy in varying time horizons using Support Vector Machine, Logistic Regression, Artificial Neural Network, Recurrent Neural Network and Random Forest models.
 
 [Report](/files/Project_Report_Final.pdf)
 
