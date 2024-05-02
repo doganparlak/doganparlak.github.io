@@ -67,7 +67,7 @@ We analyzed EURO 2020 semi-final match Italy against Spain. Various analysis tec
 
 We have created a framework which provides its users the opportunity to compare different portfolio allocation methodologies. The framework consisted of three main layers. Initial one was a financial environment layer in which users could either fetch or import their own data and apply feature engineering. The second layer was the model layer. It enabled users to either use a conventional model or a reinforcement learning model as the portfolio allocation algorithm. Lastly, the evaluation layer was utilized to apply back-testing and view the performance of the chosen algorithm with preferred performance metrics.
 
-[Framework](https://github.com/didemdurukan/uniFi/tree/main)
+[Framework](https://github.com/doganparlak/uniFi)
 [Report](/files/Master_s_Project_Report_Final.pdf)
 
 ## Creating Evidence in a Real-World Health Data Science Scenario
