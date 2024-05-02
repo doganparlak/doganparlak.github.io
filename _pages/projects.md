@@ -50,6 +50,9 @@ The goal of the thesis was to provide an open-source implementation of the conce
 ### ETH Zurich, Social Networks Lab
 
 We have employed spatio-temporal tracking data obtained from UEFA to generate an automatic formation detection and role assignment algorithm. Utilizing the same dataset, we have worked on clustering passing patterns of players and teams by building spatial networks.
+
+[Repository](https://github.com/doganparlak/FormationDetectionRoleAssignment)
+
 ## Italy v Spain Match Analysis, EURO 2020
 
 ### ETH Zurich, Soccer Analytics
