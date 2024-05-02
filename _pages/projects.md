@@ -62,7 +62,7 @@ We analyzed EURO 2020 semi-final match Italy against Spain. Various analysis tec
 
 ### University of Zurich, Master's Research Project
 
-We have created a framework which provides its users the opportunity to compare different portfolio allocation methodologies. The framework consisted of three main layers. Inital one was financial environment layer in which users could either fetch or import their own data and apply feature engineering. Second layer was model layer. It enabled users to either use a conventional model or a reinforcement learning model as the portfolio allocation algorithm. Lastly, evaluation layer was utilized to apply back-testing and view the performance of the chosen algorithm with preferred performance metrics.
+We have created a framework which provides its users the opportunity to compare different portfolio allocation methodologies. The framework consisted of three main layers. Initial one was a financial environment layer in which users could either fetch or import their own data and apply feature engineering. The second layer was the model layer. It enabled users to either use a conventional model or a reinforcement learning model as the portfolio allocation algorithm. Lastly, the evaluation layer was utilized to apply back-testing and view the performance of the chosen algorithm with preferred performance metrics.
 
 [Framework](https://github.com/didemdurukan/uniFi/tree/main)
 [Report](/files/Master_s_Project_Report_Final.pdf)
@@ -80,7 +80,7 @@ The objective of the DigitalHealth project is to gain previously unknown knowled
 
 We set up a binary classification task which predicted the direction of “close prices” of the cryptocurrencies: ADA, BTC, DOGE, ETH and LTC utilizing high level frequency (minute level) data. Feature engineering was done to handcraft the most prevalent technical features used in technical analysis. Model-dependent and model-agnostic feature selection methods were utilized to select the most informative and relevant features. Decision Tree model was built as a baseline and aimed to improve the prediction accuracy in varying time horizons using Support Vector Machine, Logistic Regression, Artificial Neural Network, Recurrent Neural Network and Random Forest models.
 
-[Report](files/Project_Report_Final.pdf)
+[Report](/files/Project_Report_Final.pdf)
 
 ## Alzheimer Phase Detection
 
