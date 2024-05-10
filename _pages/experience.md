@@ -4,6 +4,9 @@ title: "Experience"
 permalink: /experience/
 author_profile: true
 ---
+## Artificial Intelligence Engineer, Abdi Business Technologies
+
+Artificial Intelligence and Solution Assistant Analyst.
 
 ## Data Science Intern, UEFA
 

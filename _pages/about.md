@@ -19,4 +19,6 @@ To further enrich my academic journey, I involved in the [Social Networks Lab](h
 
 In addition to my academic pursuits, I have gained industry experience through a Data Science internship at [UEFA](https://www.uefa.com).
 
+Currently, I am working as an Artificial Intelligence Engineer at Abdi Business Technologies.
+
 
