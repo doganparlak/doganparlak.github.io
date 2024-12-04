@@ -7,6 +7,17 @@ author_profile: true
 
 Below, you can find the projects I completed during my B.Sc., M.Sc. degrees, and work experience.
 
+## Roleplay Chatbot
+
+### Abdi Business Technologies
+The project aims to assist medical representatives in training on specific medicines, aiming to enhance sales performance. I took part in the creation of medical professional personas (doctors, pharmacists).
+
+## AI Candidate Analysis
+
+### Abdi Business Technologies
+The project aims to provide an end-to-end AI-supported hiring process. I led the development of this project, which includes CV analysis based on seniority-specific job descriptions, candidate filtering, personalized interview questions with follow-ups, and a bot that joins interviews to assess and evaluate candidates.
+
+
 ## Unknown Data Classification through Ensemble Learning
 
 ### Case Study
