@@ -9,7 +9,7 @@ redirect_from:
 ---
 *Fall seven times, stand up eight.*
 
-I began my academic journey as an undergraduate student in Electrical and Electronics Engineering at [Bilkent University](\href{https://w3.bilkent.edu.tr/www/).During this time, I developed a strong interest in applying Data Science and Analytics to Finance and Business-related domains.
+I began my academic journey as an undergraduate student in Electrical and Electronics Engineering at [Bilkent University](\href{https://w3.bilkent.edu.tr/www/). During this time, I developed a strong interest in applying Data Science and Analytics to Finance and Business-related domains.
 
 Driven by this passion, I pursued a Master's degree in [Data Science](https://www.oec.uzh.ch/en/studies/master/it/ds.html) with a minor in [Banking and Finance](https://www.oec.uzh.ch/en/studies/master/oec/bf.html) at the [University of Zurich (UZH)](https://www.uzh.ch/en.html). I was enrolled in the [Department of Computer Science](https://www.ifi.uzh.ch/en.html) at UZH, where I deepened my knowledge in Data Science and Finance.
 
