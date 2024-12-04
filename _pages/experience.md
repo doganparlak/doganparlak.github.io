@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Artificial Intelligence Engineer, Abdi Business Technologies
 
-Artificial Intelligence and Solution Assistant Analyst.
+I developed AI Candidate Analysis, an end-to-end hiring process that includes CV analysis based on seniority-specific job descriptions, candidate filtering, personalized interview questions with follow-ups, and a bot that joins interviews to assess and evaluate candidates. Additionally, I took part in the creation of the Roleplay Chatbot, where I played a key role in developing medical professional personas (such as doctors and pharmacists) to assist medical representatives in training on specific medicines, with the goal of enhancing their sales performance. 
 
 ## Data Science Intern, UEFA
 
