@@ -10,8 +10,11 @@ main:
   - title: "Experience"
     url: /experience/   
 
-  - title: "Publications"
-    url: /publications/  
+  - title: "Honors & Rewards"
+    url: /honors_rewards/  
+
+  - title: "Licenses & Certifications"
+    url: /licenses_certifications/  
     
   - title: "CV"
     url: /files/cv.pdf
