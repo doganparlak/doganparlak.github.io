@@ -16,5 +16,5 @@ Awarded Best AI Virtual Agents & Bots at the  [Future of AI & Cloud Summit by CX
 ### Bronze Category Health Technologies Award
 Received the Bronze Category Health Technologies Award from [Yapay Zeka Fabrikasi, Turkiye Is Bankasi](https://www.yzfodulleri.com).
 <p style="text-align: center;">
-  <img src="../images/award_image_2.jpg" alt="Bronze Category Health Technologies award at Yapay Zeka Fabrikasi by Turkiye Is Bankasi" style="width: 50%; height: 50%;" />
+  <img src="../images/award_image_2.jpg" alt="Bronze Category Health Technologies award at Yapay Zeka Fabrikasi by Turkiye Is Bankasi" style="width: 50%; height: 25%;" />
 </p>
