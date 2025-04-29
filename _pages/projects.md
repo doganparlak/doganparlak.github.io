@@ -8,6 +8,8 @@ author_profile: true
 Below, you can find the projects I completed during my B.Sc., M.Sc. degrees, and work experience.
 
 ## Fin-AiDea
+
+### Independent Project
 Fin-AiDea is an advanced platform designed to help you gain insights into financial models for your portfolio by predicting future prices. This tool provides valuable predictions based on sophisticated models but does not offer specific investment advice.
 
 [Repository](https://github.com/doganparlak/AiDea)
