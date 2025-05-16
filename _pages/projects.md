@@ -14,7 +14,7 @@ Fin-AiDea is an advanced platform designed to help you gain insights into financ
 
 [Repository](https://github.com/doganparlak/AiDea)
 
-## Roleplay Chatbot
+## AIDa - Roleplay Chatbot
 
 ### Abdi Business Technologies
 The project aims to assist medical representatives in training on specific medicines, aiming to enhance sales performance. I created a chatbot which represents medical professional personas (doctors, pharmacists), fine-tuned the model and built a Retrieval-Augmented Generation (RAG) system to provide accurate, context-aware responses. The chatbot operates in a speech-to-speech format for realistic training simulations.
@@ -23,6 +23,12 @@ The project aims to assist medical representatives in training on specific medic
 
 ### Abdi Business Technologies
 The project aims to provide an end-to-end AI-supported hiring process. I led the development of this project, which includes CV analysis based on seniority-specific job descriptions, candidate filtering, personalized interview questions with follow-ups, and a bot that joins interviews to assess and evaluate candidates operating in a speech-to-speech format.
+
+## Apranax & Youplus Chatbot
+By leveraging a RAG model built on Azure, the project delivers a chatbot that provides users with accurate and up-to-date product information.
+
+[Youplus][https://www.youplus.com.tr]
+
 
 
 ## Unknown Data Classification through Ensemble Learning
