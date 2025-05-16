@@ -27,7 +27,7 @@ The project aims to provide an end-to-end AI-supported hiring process. I led the
 ## Apranax & Youplus Chatbot
 By leveraging a RAG model built on Azure, the project delivers a chatbot that provides users with accurate and up-to-date product information.
 
-[Youplus][https://www.youplus.com.tr]
+[Youplus](https://www.youplus.com.tr)
 
 
 
