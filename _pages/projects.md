@@ -25,10 +25,11 @@ The project aims to assist medical representatives in training on specific medic
 The project aims to provide an end-to-end AI-supported hiring process. I led the development of this project, which includes CV analysis based on seniority-specific job descriptions, candidate filtering, personalized interview questions with follow-ups, and a bot that joins interviews to assess and evaluate candidates operating in a speech-to-speech format.
 
 ## Apranax & Youplus Chatbot
+
+### Abdi Business Technologies
 By leveraging a RAG model built on Azure, the project delivers a chatbot that provides users with accurate and up-to-date product information.
 
 [Youplus](https://www.youplus.com.tr)
-
 
 
 ## Unknown Data Classification through Ensemble Learning
