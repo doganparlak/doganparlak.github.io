@@ -10,40 +10,40 @@ Below, you can find the projects I completed during my B.Sc., M.Sc. degrees, and
 ## Fin-AiDea
 
 ### Independent Project
-Fin-AiDea is an advanced platform designed to help you gain insights into financial models for your portfolio by predicting future prices. This tool provides valuable predictions based on sophisticated models but does not offer specific investment advice.
+Fin-AiDea is an advanced platform designed to help you gain insights into financial models for your portfolio by predicting future prices. This tool provides valuable spot price predictions based on sophisticated financial and GenAI models but does not offer specific investment advice.
 
 [Repository](https://github.com/doganparlak/AiDea)
 
 ## AIDa - Roleplay Chatbot
 
 ### Abdi Business Technologies
-The project aims to assist medical representatives in training on specific medicines, aiming to enhance sales performance. I created a chatbot which represents medical professional personas (doctors, pharmacists), fine-tuned the model and built a Retrieval-Augmented Generation (RAG) system to provide accurate, context-aware responses. The chatbot operates in a speech-to-speech format for realistic training simulations.
+The objective was to assist medical representatives in training on specific medicines, aiming to enhance sales performance. I created a chatbot which represents medical professional personas (doctors, pharmacists), fine-tuned the model and built a Retrieval-Augmented Generation (RAG) system to provide accurate, context-aware responses. The chatbot operated in a speech-to-speech format for realistic training simulations.
 
 ## AI Candidate Analysis
 
 ### Abdi Business Technologies
-The project aims to provide an end-to-end AI-supported hiring process. I led the development of this project, which includes CV analysis based on seniority-specific job descriptions, candidate filtering, personalized interview questions with follow-ups, and a bot that joins interviews to assess and evaluate candidates operating in a speech-to-speech format.
+The project aimed to provide an end-to-end AI-supported hiring process. I led the development of this project, which included CV analysis based on seniority-specific job descriptions, candidate filtering, personalized interview questions with follow-ups, and a bot that joins interviews to assess and evaluate candidates operating in a speech-to-speech format.
 
 ## Apranax & Youplus Chatbot
 
 ### Abdi Business Technologies
-By leveraging a RAG model built on Azure, the project delivers a chatbot that provides users with accurate and up-to-date product information.
+By leveraging a RAG model built on Azure, the project delivered a chatbot that provided users with accurate and up-to-date product information.
 
 [Youplus](https://www.youplus.com.tr)
 
 
 ## Unknown Data Classification through Ensemble Learning
 
-### Case Study
-The project showcases a classification task designed to achieve a targeted cross entropy loss on an unknown tabular dataset. Utilizing various machine learning algorithms such as LightGBM, XGBoost, Multi-Layer Perceptron (MLP), and Random Forest, both individually and as an ensemble, the approach encompasses data preprocessing using the UMAP (Uniform Manifold Approximation and Projection) model to extract meaningful features from the raw tabular data. Following preprocessing, each algorithm is trained on the data, and an ensemble of models is constructed to determine their contributions to the final prediction using Gaussian Process Minimization. This case study was completed for the hiring process of SWC Capital and is presented as a Jupyter notebook, detailing the entire pipeline from data preprocessing to ensemble learning.
+### Independent Project
+The project showcased a classification task designed to achieve a targeted cross entropy loss on an unknown tabular dataset. Utilizing various machine learning algorithms such as LightGBM, XGBoost, Multi-Layer Perceptron (MLP), and Random Forest, both individually and as an ensemble, the approach encompassed data preprocessing using the UMAP (Uniform Manifold Approximation and Projection) model to extract meaningful features from the raw tabular data. Following preprocessing, each algorithm was trained on the data, and an ensemble of models was constructed to determine their contributions to the final prediction using Gaussian Process Minimization. 
 
 [Repository](https://github.com/doganparlak/UnknownDataClassification)
 
 
 ## Real-Time Arbitrage Monitoring
 
-### Case Study
-A project aimed at analyzing real-time book ticker data from Binance with the goal of identifying potential triangular arbitrage opportunities. This project utilizes WebSocket streams to acquire the book ticker data and employs algorithms that consider both ask and bid prices to identify potential arbitrage opportunities. The study demonstrates the liquidity of symbols, arbitrage triggers, and frequency of observed arbitrages, along with paired symbols. The results are compiled and presented in a comprehensive presentation for interpretation, providing insights into the efficiency of the market and the potential for triangular arbitrage opportunities in real-time book ticker data from Binance.
+### Independent Project
+A project aimed at analyzing real-time book ticker data from Binance with the goal of identifying potential triangular arbitrage opportunities. This project utilized WebSocket streams to acquire the book ticker data and employed algorithms that consider both ask and bid prices to identify potential arbitrage opportunities. The study demonstrated the liquidity of symbols, arbitrage triggers, and frequency of observed arbitrages, along with paired symbols. The results were compiled and presented in a comprehensive presentation for interpretation, providing insights into the efficiency of the market and the potential for triangular arbitrage opportunities in real-time book ticker data from Binance.
 
 [Repository](https://github.com/doganparlak/ArbitrageMonitoring)
 
