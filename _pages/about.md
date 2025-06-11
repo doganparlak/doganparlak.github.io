@@ -19,6 +19,6 @@ To further enrich my academic experience, I worked as a research assistant and t
 
 In addition to my academic pursuits, I gained industry experience through a Data Science internship at [UEFA](https://www.uefa.com), where I applied my knowledge in a real-world setting both on and off the pitch.
 
-Currently, I am working as an Artificial Intelligence Engineer at [Abdi Business Technologies](https://www.abdibt.com.tr), where I continue to apply my expertise in AI and Data Science to various projects.
+After working as an Artificial Intelligence Engineer at [Abdi Business Technologies](https://www.abdibt.com.tr), I decided to take the next step and launch my own venture.
 
-
+I am now the founder of [DPformance](https://dpformance.com), a data-driven consultancy focused on delivering advanced football analytics and insights. At DPformance, we help clubs, analysts, and stakeholders across the game make smarter decisions through data—enhancing understanding, communication, and strategy across all levels of football.
