@@ -5,7 +5,7 @@ permalink: /education/
 author_profile: true
 ---
 
-## University of Zurich (UZH), Switzerland 
+## University of Zurich & ETH Zurich, Switzerland 
 In order to improve my vision and deepen my skills in Data Science while taking advantage of being in the center of finance, I joined University of Zurich as a MSc student with Data Science major, Banking and Finance minor. In this step of my life, I realized that my passion in football had to be combined with data. Meeting Prof. Dr. Ulrik Brandes was the turning point on my career. I joined his Social Networks Lab at ETH Zurich and worked on football analytics.
 
 ### Notable Courses

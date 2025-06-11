@@ -4,6 +4,10 @@ title: "Experience"
 permalink: /experience/
 author_profile: true
 ---
+
+## Founder | Data-Driven Consultant, DPformance
+DPformance is a data-driven consultancy providing advanced football analytics and insights to support smarter understanding, communication, and strategy across the game.
+
 ## Artificial Intelligence Engineer, Abdi Business Technologies
 
 I developed AI Candidate Analysis, an end-to-end hiring process that includes CV analysis based on seniority-specific job descriptions, candidate filtering, personalized interview questions with follow-ups, and a bot that joins interviews to assess and evaluate candidates. Additionally, I took part in the creation of the Roleplay Chatbot, where I played a key role in developing medical professional personas (such as doctors and pharmacists) to assist medical representatives in training on specific medicines, with the goal of enhancing their sales performance. 
