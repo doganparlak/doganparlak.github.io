@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Dogan Parlak"
   avatar           : "dogan_casual.jpg"
-  bio              : "Data-Driven Consultant"
+  bio              : "Founder of DPformance | Data-Driven Consultant"
   location         : "Istanbul, Turkiye"
-  employer         : "dpformance.com"
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : "dogan.parlak@dpformance.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "dpformance.com"
   bitbucket        :
   codepen          :
   dribbble         :
