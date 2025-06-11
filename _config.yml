@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dogan Parlak"
   avatar           : "dogan_casual.jpg"
-  bio              : "Artificial Intelligence Engineer"
+  bio              : "Data-Driven Consultant"
   location         : "Istanbul, Turkiye"
-  employer         :
+  employer         : "dpformance.com"
   pubmed           : 
   googlescholar    : 
-  email            : "dgnprlk@gmail.com"
+  email            : "dogan.parlak@dpformance.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
