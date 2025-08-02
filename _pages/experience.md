@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-## Founder | Data-Driven Consultant, DPformance
+## Founder, DPformance
 DPformance is a data-driven consultancy providing advanced football analytics and insights to support smarter understanding, communication, and strategy across the game.
 
 ## Artificial Intelligence Engineer, Abdi Business Technologies
